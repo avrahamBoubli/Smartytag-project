@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "420384624962",
+    "firebase_url": "https://smarty-tag.firebaseio.com",
+    "project_id": "smarty-tag",
+    "storage_bucket": "smarty-tag.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:420384624962:android:c2494ab873e4b51b85f8db",
+        "android_client_info": {
+          "package_name": "com.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "420384624962-dng6a0215a0r1artc57uv9krcc56c6s2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDY_s-VieN6zIO-T-FDVXaPiSCMSCTvYeU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "420384624962-dng6a0215a0r1artc57uv9krcc56c6s2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
