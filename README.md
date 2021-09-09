@@ -11,6 +11,7 @@ Link to firebase projet: https://console.firebase.google.com/u/0/project/smarty-
 ## Known issues:
 
 ### Build
+test for commit
 
 Build of signed APKs sometimes fail because of not enough allocated memory,</br>
 see here: https://jqn.medium.com/learn-to-fix-react-native-jvm-heap-space-is-exhausted-9d8e19ed0d16 for the solution

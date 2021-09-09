@@ -12,9 +12,9 @@
     <application
       android:name=".MainApplication"
       android:label="@string/app_name"
-      android:icon="@mipmap/ic_launcher"
+      android:icon="@mipmap/smarty_tag"
       android:usesCleartextTraffic="true"
-      android:roundIcon="@mipmap/ic_launcher_round"
+      android:roundIcon="@mipmap/smarty_tag"
       android:allowBackup="false"
       android:theme="@style/AppTheme">
       <activity
